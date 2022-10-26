@@ -1,0 +1,9 @@
+var argent = a; // argent que je possède
+
+var prix = p; // prix de Ane pour heure de randonée
+
+var nbAneMaxLouable = n ; // nombre d'âne maximum louable
+
+si p > 0 et p < a ; p-- ;
+
+n = a(p--);
